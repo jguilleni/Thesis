@@ -13,7 +13,7 @@ The code was implemented for real ultrasound images (DICOM) and simulated images
 * diffusion_DICOM.m: Main function 
 * Examples.m: Code with different test of the algorithm
 
-## Codes for real ultrasound images:
+## Codes for simulated images:
 * diffusion_SIM.m: Main function
 * Examples_SIM.m: Code with different tests of the algorithm 
 
